@@ -42,6 +42,11 @@
 ## 🕹️ Other Stuff
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚎𝚕𝚜𝚎.... 𝚏𝚘𝚛 𝚗𝚘𝚠
 
+<p align="center">
+  <img height="400" src="https://media.giphy.com/media/3oEduVhPTUAzqm03NS/giphy.gif"/>
+</p>
+
+
 ## 💿 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚜𝚘𝚞𝚛𝚌𝚎𝚜 
 ```yaml
 - 𝙱𝚊𝚗𝚗𝚎𝚛 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚔𝚢𝚎𝚌𝚑𝚊𝚗𝟿𝟿/𝚌𝚊𝚙𝚜𝚞𝚕𝚎-𝚛𝚎𝚗𝚍𝚎𝚛#𝚠𝚊𝚟𝚒𝚗𝚐

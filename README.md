@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-<iframe src="https://giphy.com/embed/3oEduVhPTUAzqm03NS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/evangelion-error-user-interface-3oEduVhPTUAzqm03NS">via GIPHY</a></p>
+  <a>
+  <img height="50" src="https://giphy.com/embed/3oEduVhPTUAzqm03NS"/>
+  </a>
 </p>
 
 
@@ -31,3 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 Profile sources:
 Banner - https://github.com/kyechan99/capsule-render#waving
+Icons - https://github.com/Ileriayo/markdown-badges#table-of-contents

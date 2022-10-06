@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <a href="https://youtu.be/b9TE3226T-g" target="_blank">
+  <a href="https://youtu.be/b9TE3226T-g">
   <img height="400" src="https://media.giphy.com/media/3ov9jVnbc2E7rCO0Ao/giphy.gif"/>
   </a>
 </p>
@@ -56,22 +56,39 @@
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚎𝚕𝚜𝚎 .... 𝚞𝚗𝚝𝚒𝚕 𝚝𝚑𝚎𝚛𝚎 𝚒𝚜 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚎𝚕𝚜𝚎
 
 <p align="center">
-  <imgg height="400" src="https://media.giphy.com/media/3oEduVhPTUAzqm03NS/giphy.gif"/>
+  <a href="https://youtu.be/b9TE3226T-g">
+  <img height="400" src="https://media.giphy.com/media/3oEduVhPTUAzqm03NS/giphy.gif"/>
+  </a>
 </p>
 
 <hr>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+## 💾 Some Tools I Have Used and Learned
+
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="RBpi" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MatLab" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="45" height="45"/>
+  
 </p>
+
+<hr>
 
 ## 💿 𝚁𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎𝚜 
 
 - 𝙱𝚊𝚗𝚗𝚎𝚛 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚔𝚢𝚎𝚌𝚑𝚊𝚗𝟿𝟿/𝚌𝚊𝚙𝚜𝚞𝚕𝚎-𝚛𝚎𝚗𝚍𝚎𝚛#𝚠𝚊𝚟𝚒𝚗𝚐
-- 𝙸𝚌𝚘𝚗𝚜 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙸𝚕𝚎𝚛𝚒𝚊𝚢𝚘/𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗-𝚋𝚊𝚍𝚐𝚎𝚜#𝚝𝚊𝚋𝚕𝚎-𝚘𝚏-𝚌𝚘𝚗𝚝𝚎𝚗𝚝𝚜
+- 𝙸𝚌𝚘𝚗𝚜 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙸𝚕𝚎𝚛𝚒𝚊𝚢𝚘/𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗-𝚋𝚊𝚍𝚐𝚎𝚜#𝚝𝚊𝚋𝚕𝚎-𝚘𝚏-𝚌𝚘𝚗𝚝𝚎𝚗𝚝𝚜, 𝚑𝚝𝚝𝚙𝚜://𝚍𝚎𝚟𝚒𝚌𝚘𝚗.𝚍𝚎𝚟/
 - 𝙶𝚒𝚏 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚙𝚑𝚢.𝚌𝚘𝚖
 - 𝙵𝚘𝚗𝚝 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛 - 𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/
 - 𝙼𝚊𝚛𝚔𝚍𝚘𝚠𝚗 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚊𝚍𝚊𝚖-𝚙/𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗-𝚑𝚎𝚛𝚎/𝚠𝚒𝚔𝚒/𝙼𝚊𝚛𝚔𝚍𝚘𝚠𝚗-𝙲𝚑𝚎𝚊𝚝𝚜𝚑𝚎𝚎𝚝#𝚑𝚎𝚊𝚍𝚎𝚛𝚜

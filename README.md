@@ -7,8 +7,6 @@
 </p>
 <hr> 
 
-<br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/weymenkoo/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

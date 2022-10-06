@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?api?type=slice&text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?api?type=slice&text=Hey Everyone!🕹️/>
 </p>
 
 - 👋 Hi, I’m @WeymenKoo

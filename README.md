@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img height="300" src="https://media.giphy.com/media/3ov9jVnbc2E7rCO0Ao/giphy.gif"/>
+  <img height="400" src="https://media.giphy.com/media/3ov9jVnbc2E7rCO0Ao/giphy.gif"/>
 </p>
 
 <hr> 

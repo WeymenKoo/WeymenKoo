@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hello%10Everyone%10🧯&fontSize=40&theme=blue-green&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hello%20Everyone%20🧯&fontSize=40&theme=blue-green&animation=twinkling"/>
 </p>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">

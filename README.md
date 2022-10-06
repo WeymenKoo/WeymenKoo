@@ -34,3 +34,4 @@ You can click the Preview link to take a look at your changes.
 Profile sources:
 Banner - https://github.com/kyechan99/capsule-render#waving
 Icons - https://github.com/Ileriayo/markdown-badges#table-of-contents
+Gif - https://giphy.com

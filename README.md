@@ -35,11 +35,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## What I'm Building Now 
 WeymenKoo/WeymenKoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-Profile sources:
-- Banner - https://github.com/kyechan99/capsule-render#waving
-- Icons - https://github.com/Ileriayo/markdown-badges#table-of-contents
-- Gif - https://giphy.com
-- Font Generator - https://yaytext.com/monospace/
+## Profile sources 
+
+- 𝙱𝚊𝚗𝚗𝚎𝚛 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚔𝚢𝚎𝚌𝚑𝚊𝚗𝟿𝟿/𝚌𝚊𝚙𝚜𝚞𝚕𝚎-𝚛𝚎𝚗𝚍𝚎𝚛#𝚠𝚊𝚟𝚒𝚗𝚐
+- 𝙸𝚌𝚘𝚗𝚜 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙸𝚕𝚎𝚛𝚒𝚊𝚢𝚘/𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗-𝚋𝚊𝚍𝚐𝚎𝚜#𝚝𝚊𝚋𝚕𝚎-𝚘𝚏-𝚌𝚘𝚗𝚝𝚎𝚗𝚝𝚜
+- 𝙶𝚒𝚏 - 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚙𝚑𝚢.𝚌𝚘𝚖
+- 𝙵𝚘𝚗𝚝 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛 - 𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/

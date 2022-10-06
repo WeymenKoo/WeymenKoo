@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Welcome%20To%20My%20Corner%20🍵&fontSize=40&theme=blue-green&animation=twinkling"/>
 </p>
 
-<p align="center" style="font-size:50px">
-  𝙸 𝚂𝚙𝚎𝚗𝚝 𝙰𝚝 𝙻𝚎𝚊𝚜𝚝 𝟷 𝙼𝚒𝚕𝚕𝚒-𝚂𝚎𝚌𝚘𝚗𝚍 𝙼𝚊𝚔𝚒𝚗𝚐 𝚃𝚑𝚒𝚜 𝙿𝚕𝚎𝚊𝚜𝚎 𝙻𝚘𝚘𝚔 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 🦃
+<p align="center">
+  ##𝙸 𝚂𝚙𝚎𝚗𝚝 𝙰𝚝 𝙻𝚎𝚊𝚜𝚝 𝟷 𝙼𝚒𝚕𝚕𝚒-𝚂𝚎𝚌𝚘𝚗𝚍 𝙼𝚊𝚔𝚒𝚗𝚐 𝚃𝚑𝚒𝚜 𝙿𝚕𝚎𝚊𝚜𝚎 𝙻𝚘𝚘𝚔 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 🦃
 </p>
 
 <br>

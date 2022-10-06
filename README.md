@@ -1,8 +1,9 @@
-<p align="center">
+<h1 align="center">
   <a href="https://youtu.be/xcaQ95P2-0M" target="_blank">
-  <img src="https://github.com/WeymenKoo/WeymenKoo/blob/main/GitHubBanner1.png"/>
+  
+𝚆𝚎𝚢𝚖𝚎𝚗 𝙺𝚘𝚘'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 🕶️
     </a>
-</p>
+</h3>
 
 
 <h3 align="center">𝙸 𝚂𝚙𝚎𝚗𝚝 𝙰𝚝 𝙻𝚎𝚊𝚜𝚝 𝟷 𝚂𝚎𝚌𝚘𝚗𝚍 𝙼𝚊𝚔𝚒𝚗𝚐 𝚃𝚑𝚒𝚜 𝙿𝚕𝚎𝚊𝚜𝚎 𝙻𝚘𝚘𝚔 𝚃𝚑𝚊𝚗𝚔ss 🍵</h3>

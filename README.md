@@ -6,6 +6,8 @@
   𝙸 𝚂𝚙𝚎𝚗𝚝 𝙰𝚝 𝙻𝚎𝚊𝚜𝚝 𝟷 𝙼𝚒𝚕𝚕𝚒-𝚂𝚎𝚌𝚘𝚗𝚍 𝙼𝚊𝚔𝚒𝚗𝚐 𝚃𝚑𝚒𝚜 𝙿𝚕𝚎𝚊𝚜𝚎 𝙻𝚘𝚘𝚔 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 🦃
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/weymenkoo/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

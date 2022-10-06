@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WeymenKoo/WeymenKoo/blob/main/GitHubBanner.png"/>
+  <img height="100" src="https://github.com/WeymenKoo/WeymenKoo/blob/main/GitHubBanner.png"/>
 </p>
 
 

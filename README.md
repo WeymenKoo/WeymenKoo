@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone%20📟&fontSize=50&theme=blue-green&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Everyone%20🧯&fontSize=50&theme=blue-green&animation=twinkling)
 
 - 👋 Hi, I’m @WeymenKoo
 - 👀 I’m interested in ...

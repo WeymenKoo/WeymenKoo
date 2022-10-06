@@ -17,7 +17,7 @@
 <p align="center">
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oEduVhPTUAzqm03NS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/evangelion-error-user-interface-3oEduVhPTUAzqm03NS">via GIPHY</a></p>
   
-  <img height="30" src="https://giphy.com/gifs/evangelion-error-user-interface-3oEduVhPTUAzqm03NS"/>
+  <img height="30" src="https://media.giphy.com/media/3ov9jVnbc2E7rCO0Ao/giphy.gif"/>
 </p>
 
 

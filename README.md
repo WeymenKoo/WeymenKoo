@@ -9,6 +9,9 @@
   <a href="mailto:kchweymen@gmail.com">
     <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/watch?v=2xx_2XNxxfA">
+    <img height="50" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 

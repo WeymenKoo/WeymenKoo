@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?height=50&section=header&text=Look%20Around%20👀&fontSize=30&theme=blue-green&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?height=50&text=Look%20Around%20👀&fontSize=30&animation=twinkling"/>
 </p>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">

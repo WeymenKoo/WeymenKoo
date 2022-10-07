@@ -16,7 +16,7 @@
   <a href="mailto:kchweymen@gmail.com" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.reddit.com/user/kooweymen" target="_blank">
+  <a href="https://www.reddit.com/r/Eyebleach/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/watch?v=lpiB2wMc49g" target="_blank">

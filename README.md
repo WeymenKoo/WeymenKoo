@@ -87,7 +87,7 @@
 
 ## 💾 𝚂𝚘𝚖𝚎 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙷𝚊𝚟𝚎 𝚄𝚜𝚎𝚍 𝚊𝚗𝚍 𝙻𝚎𝚊𝚛𝚗𝚎𝚍
 
-<p align="left">
+<p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS" width="45" height="45"/>

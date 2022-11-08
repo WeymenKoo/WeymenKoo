@@ -64,7 +64,7 @@
 - 𝙻𝚘𝚗𝚐 𝚝𝚎𝚛𝚖 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚊 𝚑𝚒𝚐𝚑𝚜𝚌𝚑𝚘𝚘𝚕 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚘𝚗, 𝚜𝚘𝚘𝚗 𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚜𝚞𝚌𝚌𝚎𝚜𝚜 𝚘𝚏 𝚛𝚎𝚞𝚜𝚊𝚋𝚕𝚎 𝚛𝚘𝚌𝚔𝚎𝚝𝚜. 𝚃𝚑𝚎 𝚜𝚎𝚗𝚜𝚘𝚛𝚜 𝚊𝚗𝚍 𝚌𝚒𝚛𝚌𝚞𝚒𝚝𝚛𝚢 𝚠𝚎𝚛𝚎 𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚍 𝚊𝚗𝚍 𝚛𝚎𝚏𝚒𝚗𝚎𝚍 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎 𝚢𝚎𝚊𝚛𝚜 𝚠𝚒𝚝𝚑 𝚊𝚍𝚍𝚎𝚍 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚒𝚘𝚗, 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚛𝚎𝚍𝚞𝚗𝚍𝚊𝚗𝚌𝚢 𝚏𝚘𝚛 𝚙𝚊𝚛𝚊𝚌𝚑𝚞𝚝𝚎 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚕𝚊𝚞𝚗𝚌𝚑 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗. 𝙸𝚗 𝚛𝚎𝚐𝚊𝚛𝚍𝚜 𝚝𝚘 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎, 𝙸 𝚊𝚖 𝚗𝚘𝚝 𝚐𝚘𝚘𝚍 𝚊𝚝 𝚌𝚘𝚍𝚒𝚗𝚐, 𝚑𝚎𝚗𝚌𝚎 𝚝𝚑𝚎 𝚌𝚘𝚍𝚎 𝚠𝚊𝚜 '𝚏𝚛𝚊𝚗𝚔𝚎𝚗𝚜𝚝𝚎𝚒𝚗𝚎𝚍' 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 𝚜𝚗𝚒𝚙𝚙𝚎𝚝𝚜 𝚏𝚘𝚞𝚗𝚍 𝚘𝚗𝚕𝚒𝚗𝚎... 𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚠𝚊𝚜 𝚊𝚕𝚜𝚘 𝚑𝚎𝚊𝚟𝚒𝚕𝚢 𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚍 𝚋𝚢 𝚖𝚞𝚕𝚝𝚒𝚙𝚕𝚎 𝚙𝚘𝚜𝚝𝚜 𝚒𝚗 𝚝𝚑𝚎 𝚛/𝚛𝚘𝚌𝚔𝚎𝚝𝚛𝚢 𝚜𝚞𝚋𝚛𝚎𝚍𝚍𝚒𝚝.
 
 
-[<img align="Right" height="165px" width="165px" alt="NoseCone" src="https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/NoseCone.jpg"/>](https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/NoseCone.jpg)
+[<img align="Right" height="165px" width="165px" alt="NoseCone" src="https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/NoseCone.jpg"/>](https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/Avionics_Front.jpg)
 
 [🪂 𝙼𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚁𝚎𝚌𝚘𝚟𝚎𝚛𝚢 𝚂𝚢𝚜𝚝𝚎𝚖](https://github.com/WeymenKoo/Water-Rocket-Avionics)
 <br>

@@ -56,14 +56,14 @@
 <br>
 - 𝚃𝚑𝚎 𝚜𝚝𝚎𝚊𝚍𝚢 𝚊𝚍𝚘𝚙𝚝𝚒𝚘𝚗 𝚘𝚏 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚟𝚎𝚑𝚒𝚌𝚕𝚎𝚜 𝚊𝚗𝚍 𝚠𝚒𝚍𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚖𝚘𝚋𝚒𝚕𝚎 𝚛𝚘𝚋𝚘𝚝𝚜 𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚍 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝. 𝚅𝟷 𝚊𝚗𝚍 𝚅𝟸 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚛𝚘𝚟𝚎𝚛 𝚠𝚎𝚛𝚎 𝚜𝚞𝚙𝚙𝚘𝚜𝚎 𝚝𝚘 𝚕𝚘𝚘𝚔 𝚕𝚒𝚔𝚎 𝚝𝚑𝚎 𝙼𝚊𝚛𝚜 𝚁𝚘𝚟𝚎𝚛, 𝚋𝚞𝚝 𝚝𝚑𝚎 𝚖𝚎𝚌𝚑𝚊𝚗𝚒𝚜𝚖 𝚊𝚍𝚍𝚜 𝚌𝚘𝚖𝚙𝚕𝚎𝚡𝚒𝚝𝚢 𝚊𝚗𝚍 𝚠𝚎𝚛𝚎 𝚝𝚒𝚖𝚎 𝚌𝚘𝚗𝚜𝚞𝚖𝚒𝚗𝚐 𝚝𝚘 𝟹𝙳 𝚙𝚛𝚒𝚗𝚝. 𝚅𝟹 𝚊𝚗𝚍 𝚘𝚗𝚠𝚊𝚛𝚍𝚜 𝚠𝚒𝚕𝚕 𝚊𝚍𝚘𝚙𝚝 𝚊 𝚜𝚒𝚖𝚙𝚕𝚎𝚛 𝚍𝚎𝚜𝚒𝚐𝚗. 𝙳𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 𝚊𝚕𝚕𝚘𝚠𝚜 𝚖𝚎 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚛𝚊𝚙𝚒𝚍 𝚙𝚛𝚘𝚝𝚘𝚝𝚢𝚙𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚍𝚎𝚜𝚒𝚐𝚗 𝚙𝚛𝚘𝚌𝚎𝚜𝚜.
 
-
+<br>
 [<img align="Right" height="165px" width="165px" alt="Avionics" src="https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/Avionics_Front.jpg"/>](https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/Avionics_Front.jpg)
 
 [🛩️ 𝙰𝚟𝚒𝚘𝚗𝚒𝚌𝚜 𝚂𝚢𝚜𝚝𝚎𝚖](https://github.com/WeymenKoo/Water-Rocket-Avionics)
 <br>
 - 𝙻𝚘𝚗𝚐 𝚝𝚎𝚛𝚖 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝚊 𝚑𝚒𝚐𝚑𝚜𝚌𝚑𝚘𝚘𝚕 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚘𝚗, 𝚜𝚘𝚘𝚗 𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚜𝚞𝚌𝚌𝚎𝚜𝚜 𝚘𝚏 𝚛𝚎𝚞𝚜𝚊𝚋𝚕𝚎 𝚛𝚘𝚌𝚔𝚎𝚝𝚜. 𝚃𝚑𝚎 𝚜𝚎𝚗𝚜𝚘𝚛𝚜 𝚊𝚗𝚍 𝚌𝚒𝚛𝚌𝚞𝚒𝚝𝚛𝚢 𝚠𝚎𝚛𝚎 𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚍 𝚊𝚗𝚍 𝚛𝚎𝚏𝚒𝚗𝚎𝚍 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎 𝚢𝚎𝚊𝚛𝚜 𝚠𝚒𝚝𝚑 𝚊𝚍𝚍𝚎𝚍 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚒𝚘𝚗, 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚛𝚎𝚍𝚞𝚗𝚍𝚊𝚗𝚌𝚢 𝚏𝚘𝚛 𝚙𝚊𝚛𝚊𝚌𝚑𝚞𝚝𝚎 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚕𝚊𝚞𝚗𝚌𝚑 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗. 
 
-
+<br>
 [<img align="Right" height="165px" width="165px" alt="NoseCone" src="https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/NoseCone.jpg"/>](https://github.com/WeymenKoo/Water-Rocket-Avionics/blob/main/NoseCone.jpg)
 
 [🪂 𝙼𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚁𝚎𝚌𝚘𝚟𝚎𝚛𝚢 𝚂𝚢𝚜𝚝𝚎𝚖](https://github.com/WeymenKoo/Water-Rocket-Avionics)

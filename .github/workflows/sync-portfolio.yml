@@ -1,0 +1,65 @@
+# Keeps the Projects section of this README and portfolio.pdf in step with
+# the site. Both are generated in WeymenKoo/Personal-Site (npm run tldr) and
+# published with it; this fetches them and commits any change.
+#
+# Runs every 6 hours, or now: Actions → "Sync portfolio" → Run workflow.
+name: Sync portfolio
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [portfolio-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-portfolio
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the PDF and the Projects section from the site
+        run: |
+          set -euo pipefail
+          base="https://weymenkoo.github.io/Personal-Site"
+          bust="?t=$(date +%s)"
+          curl -fsSL --retry 3 "$base/portfolio.pdf$bust" -o /tmp/portfolio.pdf
+          curl -fsSL --retry 3 "$base/tldr.md$bust" -o /tmp/tldr.md
+          # sanity: a real PDF, and a section with both markers
+          head -c 5 /tmp/portfolio.pdf | grep -q '%PDF-'
+          grep -q '<!-- tldr:start' /tmp/tldr.md
+          grep -q '<!-- tldr:end -->' /tmp/tldr.md
+          cp /tmp/portfolio.pdf portfolio.pdf
+
+      - name: Put the section into README.md
+        run: |
+          python3 - <<'PY'
+          import re
+          readme = open("README.md", encoding="utf-8").read()
+          section = open("/tmp/tldr.md", encoding="utf-8").read().strip()
+          pat = re.compile(r"<!-- tldr:start.*?<!-- tldr:end -->", re.S)
+          if pat.search(readme):
+              readme = pat.sub(lambda m: section, readme, count=1)
+          else:
+              readme = readme.rstrip() + "\n\n" + section + "\n"
+          open("README.md", "w", encoding="utf-8").write(readme)
+          PY
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add README.md portfolio.pdf
+          if git diff --cached --quiet; then
+            echo "Already up to date."
+          else
+            git commit -m "Sync portfolio from Personal-Site"
+            git push
+          fi

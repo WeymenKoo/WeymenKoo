@@ -1,5 +1,9 @@
 Hi :3
 
+I'm Weymen, an Electrical Engineering student at UBC (B.A.Sc., June 2027). I design power and flight hardware: schematics, multi-layer layout, bring-up and test. Co-ops at Tesla (HV test systems) and Dometic Marine (product design, ESD and EMC testing).
+
+Looking for full-time hardware design roles from mid-2027. [Site](https://weymenkoo.github.io/Personal-Site/) · [Résumé](https://weymenkoo.github.io/Personal-Site/resume.html) · kchweymen@gmail.com
+
 <!-- tldr:start (generated in WeymenKoo/Personal-Site by npm run tldr, do not edit by hand) -->
 
 ## Projects

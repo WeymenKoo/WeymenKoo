@@ -28,7 +28,7 @@ A single-axis, sensored field-oriented-control motor controller for one joint of
 
 ### [AeroDesign power board](https://weymenkoo.github.io/Personal-Site/content/projects/power-board/index.html)
 
-<img src="https://weymenkoo.github.io/Personal-Site/content/projects/power-board/tldr.jpg" alt="The power board on the bench next to a roll of solder, tweezers and a soldering iron, with an inset of the reworked flight controller" width="720">
+<img src="https://weymenkoo.github.io/Personal-Site/content/projects/power-board/tldr.jpg" alt="The power board on the bench, a roll of solder below it, tweezers and a soldering iron at the edges" width="720">
 
 **Flown 2025** · 2025 · 2S–4S in · 5 V 15 A · LM5146 · 2 × TPS25983 · 6 layers
 
@@ -48,7 +48,7 @@ The power distribution system for Shadow, UBC AeroDesign's 2023–24 Advanced Cl
 
 **Flown once** · 2023 · 2 airframes · 120 in span · S1223 wing · NACA 0012 tail · balsa, ply and carbon fibre
 
-Two seasons as mechanical lead for lifting surfaces and aerodynamics on UBC AeroDesign's Advanced Class team: Kyogre in 2021–22, then Spirit, a blended wing body built twice in 2022–23. The analysis behind Kyogre, then mostly photos: a crash, Spirit's one flight and two shipments lost by UPS.
+Two seasons as mechanical lead for lifting surfaces and aerodynamics on UBC AeroDesign's Advanced Class team: Kyogre in 2021–22, then Spirit, a blended wing body built twice in 2022–23. Sketches, XFLR5, CAD, the build, and how it ended: a crash, one flight and two shipments lost by UPS.
 
 ### [DC electronic load](https://weymenkoo.github.io/Personal-Site/content/projects/dc-load/index.html)
 
